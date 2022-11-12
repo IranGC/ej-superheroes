@@ -36,6 +36,18 @@
         "Teleportation",
         "Interdimensional travel"
       ]
-    }
+    },
+    {
+        "name": "Batman",
+        "age": 8000000,
+        "secretIdentity": "Bruce Wayne",
+        "powers": [
+          "Millonario",
+          "Conocido como el caballero de la noche",
+          "No tiene superpoderes propios",
+          "Ayuda de Robin o Batichica",
+          "Se disfraza de murciélago"
+        ]
+      }
   ]
 }
